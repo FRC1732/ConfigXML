@@ -1,0 +1,7 @@
+CompetitionBotConfig.xml
+
+Choice goes on the first line. Copy and paste from the options below.
+We could also have multiple config files that get loaded, and add stuff to write/change autonomous modes from the Driver's Station (like Ryan's idea)
+
+CompetitionBotConfig.xml
+PracticeBotConfig.xmls

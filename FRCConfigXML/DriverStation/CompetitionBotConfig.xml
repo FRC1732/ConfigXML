@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Robot>
+	<Drivetrain>
+		<MotorLeft1>
+			<CANnumber>1</CANnumber>
+			<isInverted>false</isInverted>
+			<isFollower>false</isFollower>
+		</MotorLeft1>
+		
+		<MotorLeft2>
+			<CANnumber>2</CANnumber>
+			<isInverted>false</isInverted>
+			<isFollower>true</isFollower>
+		</MotorLeft2>
+		
+		<MotorLeft3>
+			<CANnumber>3</CANnumber>
+			<isInverted>false</isInverted>
+			<isFollower>true</isFollower>
+		</MotorLeft3>
+		
+		<MotorRight1>
+			<CANnumber>4</CANnumber>
+			<isInverted>true</isInverted>
+			<isFollower>false</isFollower>
+		</MotorRight1>
+		
+		<MotorRight2>
+			<CANnumber>5</CANnumber>
+			<isInverted>true</isInverted>
+			<isFollower>true</isFollower>
+		</MotorRight2>
+		
+		<MotorRight3>
+			<CANnumber>6</CANnumber>
+			<isInverted>true</isInverted>
+			<isFollower>true</isFollower>
+		</MotorRight3>
+	</Drivetrain>
+</Robot>
