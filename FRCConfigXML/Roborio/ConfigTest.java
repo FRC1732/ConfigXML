@@ -13,7 +13,7 @@ import org.xml.sax.SAXException;
 /*
  * This is the code that would run somewhere on the roborio
  * 
- * It is meant to simulate loading a config file. This could be in any part of the code, it's not restricted to anywhere.
+ * This could be in any part of the code, it's not restricted to anywhere.
  */
 public class ConfigTest {
 
