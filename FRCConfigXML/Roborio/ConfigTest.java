@@ -56,10 +56,8 @@ public class ConfigTest {
 		// I don't have the network tables library on here so this will all be commented
 		// out
 
-		// String savedRobotConfig = DOMutils.fileToString(pathToSavedConfig +
-		// savedConfigName);
-		// String robotConfig =
-		// NetworkTableInstance.getDefault().getTable(tableName).getEntry("configTableEntry).getString(savedConfig);
+		// String savedRobotConfig = ConfigUtils.fileToString(pathToSavedConfig + savedConfigName);
+		// String robotConfig = NetworkTableInstance.getDefault().getTable(tableName).getEntry("configTableEntry).getString(savedConfig);
 
 		// ^ that method requires a default value as the argument to getString()
 
